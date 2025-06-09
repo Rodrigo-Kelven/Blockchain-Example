@@ -25,13 +25,10 @@
 
 ## Como Funciona?
 
-    - Bloco Gênese: O primeiro bloco é criado manualmente. Ele não tem um bloco anterior e não possui hash (é um caso especial na blockchain).
-
-    - Blocos Subsequentemente Criados: A cada 3 segundos, um novo bloco é criado, com base no bloco anterior.
-
-    - Hashing: O hash de cada bloco é calculado usando a função de hash SHA256. Esse hash é a "impressão digital" do bloco, garantindo sua integridade.
-
-    - Encadeamento de Blocos: Cada bloco aponta para o bloco anterior por meio de seu hash, garantindo que, se qualquer bloco for alterado, todos os blocos subsequentes serão invalidos.
+- Bloco Gênese: O primeiro bloco é criado manualmente. Ele não tem um bloco anterior e não possui hash (é um caso especial na blockchain).
+- Blocos Subsequentemente Criados: A cada 3 segundos, um novo bloco é criado, com base no bloco anterior.
+- Hashing: O hash de cada bloco é calculado usando a função de hash SHA256. Esse hash é a "impressão digital" do bloco, garantindo sua integridade.
+- Encadeamento de Blocos: Cada bloco aponta para o bloco anterior por meio de seu hash, garantindo que, se qualquer bloco for alterado, todos os blocos subsequentes serão invalidos.
 
 ## Como Usar
 - ### Requisitos:
