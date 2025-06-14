@@ -67,8 +67,8 @@
 
 ### Tecnologias Utilizadas
 
-    - Go (Golang): Linguagem utilizada para a implementação da blockchain.
-    - SHA-256: Função de hash criptográfico usada para gerar os hashes dos blocos.
+- Go (Golang): Linguagem utilizada para a implementação da blockchain.
+- SHA-256: Função de hash criptográfico usada para gerar os hashes dos blocos.
 
 ### Contribuições
 
