@@ -37,7 +37,7 @@
 - ### Clone o repositório:
 
         git clone https://github.com/Rodrigo-Kelven/Blockchain-Example
-        cd blockchain-simples-go
+        cd Blockchain-Example
 
 - ### Execute o código:
 
